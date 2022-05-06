@@ -1,5 +1,5 @@
 const words = [
-    "MI AMORSITO",
+    "MI AMORCITO",
     "MI CIELO",
     "MI VIDA",
     "MI OSITO",
